@@ -44,6 +44,10 @@ The history of logistic decisions made during a specific session (to generate pe
 
 All data regarding the simulation progress is stored temporarily in the database (Supabase) and may be deleted after the session ends or following a period of room inactivity.
 
-## 7. Contact and Support
+## 7. Development and Analytical Tools
+
+This application was developed using the Lovable platform. Consequently, the platform may automatically collect certain technical and diagnostic data (such as crash reports, app performance metrics, and interface interaction patterns). This data is used solely to ensure the application's stability, fix bugs, and optimize the overall user experience. This information is not used to identify the individual identity of the players.
+
+## 8. Contact and Support
 
 For inquiries regarding the application's operation, please contact: hutskalovam@gmail.com.
