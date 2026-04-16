@@ -42,12 +42,38 @@ The history of logistic decisions made during a specific session (to generate pe
 
 ## 6. Data Retention
 
-All data regarding the simulation progress is stored temporarily in the database (Supabase) and may be deleted after the session ends or following a period of room inactivity.
+Personal Data:
+
+We do not directly collect, store, or sell any personal data (such as names or email addresses) on our own servers. If you wish to request the deletion of any data processed by third-party services, you may do so through your Google Account settings or by contacting the service providers directly. As the developer, I do not have access to or control over this data.
+
+Simulation Data:
+
+The app is developed using Lovable and may use Supabase to process simulation-based inputs (e.g., order quantities, inventory levels). This data is used solely for the functionality of the simulation. Technical diagnostic data (crash logs, performance stats) may be automatically collected by Google Play Services to ensure app stability.
+
+Third-Party Services:
+
+The app uses third-party services that may collect information used to identify you. Links to the privacy policy of third-party service providers used by the app:
+
+[Google Play Services](https://www.google.com/policies/privacy/)
+
+[Lovable](https://lovable.dev/privacy)
+
+No Direct Communication:
+
+The application does not include a chat system or any form of direct messaging between players. Interaction is strictly confined to simulation-based inputs.
+
+Data Deletion:
+
+Since we do not store user data on our own infrastructure, we cannot manually delete specific user records. Users can manage or delete data collected by Google Play Services through their Google Account settings.
 
 ## 7. Development and Analytical Tools
 
 This application was developed using the Lovable platform. Consequently, the platform may automatically collect certain technical and diagnostic data (such as crash reports, app performance metrics, and interface interaction patterns). This data is used solely to ensure the application's stability, fix bugs, and optimize the overall user experience. This information is not used to identify the individual identity of the players.
 
-## 8. Contact and Support
+## 8. Children’s Privacy
+
+These Services do not address anyone under the age of 16. We do not knowingly collect personally identifiable information from children under 16. If we discover that a child under 16 has provided us with personal information, we immediately delete this from our records.
+
+## 9. Contact and Support
 
 For inquiries regarding the application's operation, please contact: hutskalovam@gmail.com.
